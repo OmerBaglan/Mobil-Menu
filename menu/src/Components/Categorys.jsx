@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 
-const Categorys = () => {
-  
+const Categorys = () => {  
   const [openhamburger,setOpenHamburger]=useState(true)
   const [openpizza,setOpenPizza]=useState(false)
   const [openhatdog,setOpenHatdog]=useState(false)
