@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
 
 const Categorys = () => {  
+
+  //Deneme
   
   const [openhamburger,setOpenHamburger]=useState(true)
   const [openpizza,setOpenPizza]=useState(false)
